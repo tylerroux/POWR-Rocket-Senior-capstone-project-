@@ -1,0 +1,11 @@
+C:\Users\sageb\source\repos\POWR Upload Portal 2\POWR Upload Portal 2\bin\Debug\POWR Upload Portal 2.exe.config
+C:\Users\sageb\source\repos\POWR Upload Portal 2\POWR Upload Portal 2\bin\Debug\POWR Upload Portal 2.exe
+C:\Users\sageb\source\repos\POWR Upload Portal 2\POWR Upload Portal 2\bin\Debug\POWR Upload Portal 2.pdb
+C:\Users\sageb\source\repos\POWR Upload Portal 2\POWR Upload Portal 2\obj\Debug\POWR Upload Portal 2.csproj.AssemblyReference.cache
+C:\Users\sageb\source\repos\POWR Upload Portal 2\POWR Upload Portal 2\obj\Debug\POWR Upload Portal 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\sageb\source\repos\POWR Upload Portal 2\POWR Upload Portal 2\obj\Debug\POWR_Upload_Portal_2.Properties.Resources.resources
+C:\Users\sageb\source\repos\POWR Upload Portal 2\POWR Upload Portal 2\obj\Debug\POWR Upload Portal 2.csproj.GenerateResource.cache
+C:\Users\sageb\source\repos\POWR Upload Portal 2\POWR Upload Portal 2\obj\Debug\POWR Upload Portal 2.csproj.CoreCompileInputs.cache
+C:\Users\sageb\source\repos\POWR Upload Portal 2\POWR Upload Portal 2\obj\Debug\POWR Upload Portal 2.exe
+C:\Users\sageb\source\repos\POWR Upload Portal 2\POWR Upload Portal 2\obj\Debug\POWR Upload Portal 2.pdb
+C:\Users\sageb\source\repos\POWR Upload Portal 2\POWR Upload Portal 2\obj\Debug\POWR_Upload_Portal_2.portalFrame.resources
